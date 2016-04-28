@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
+  },
+  "name": "angular-bootstrap",
+  "main": [
+    "./ui-bootstrap-tpls.js"
+  ],
+  "dependencies": {
+    "angular": ">=1"
+  },
+  "homepage": "https://github.com/jakubburkiewicz/bootstrap-bower",
+  "_release": "75c0b47dd9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "75c0b47dd94c3633b8a8d4520dbcfeda3d55b0d9"
+  },
+  "_source": "git@github.com:jakubburkiewicz/bootstrap-bower.git",
+  "_target": "master",
+  "_originalSource": "git@github.com:jakubburkiewicz/bootstrap-bower.git"
+}
